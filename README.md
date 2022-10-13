@@ -51,4 +51,6 @@ pdm run mypy
 
 ```
 python -m pip install --user .
+
+pdm run python -m pip install -e . 
 ```
